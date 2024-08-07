@@ -473,7 +473,7 @@ body {
 }
 
 /* Mobile */
-@media (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 550px) {
   html {
     font-size: 65%;
   }
